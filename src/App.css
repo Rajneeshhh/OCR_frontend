@@ -1,0 +1,18 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.welcome-container {
+  text-align: center;
+}
+
+.welcome-buttons {
+  margin-top: 20px;
+}
+
+.welcome-buttons button {
+  margin-right: 10px;
+}
